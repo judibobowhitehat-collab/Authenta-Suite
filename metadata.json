@@ -1,0 +1,8 @@
+{
+  "name": "Authenta Suite",
+  "description": "Enterprise-grade identity verification and document analysis platform powered by Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
